@@ -3,6 +3,7 @@
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
     <Text text="Testing this fiori app fro ctms"/>
-    <VBox >    <Text text="New Line"/></VBox>
+    <VBox >    <Text text="New Line"/>
+    <Text text="neww test"/></VBox>
     </Page>
 </mvc:View>
